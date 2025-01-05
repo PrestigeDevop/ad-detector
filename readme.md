@@ -10,4 +10,4 @@ this repo consist of three main apps ;
 
 
   
-an app android and plugin for browsers leverage AI models to power its accuracy , it can detect ad libraries and protect your privacy also has an option to export and analysis your data  , route your connection to see where your data is goin , it has also a feuture to update blacklist by filters based upon txt lookup on a txt lookup and block them .
+an  android app and plugin for browsers leverage AI models to power its accuracy , it can detect ad libraries and protect your privacy also has an option to export and analysis your data  , route your connection to see where your data is goin , it has also a feuture to update blacklist by filters based upon txt lookup on a txt lookup file and block them .
